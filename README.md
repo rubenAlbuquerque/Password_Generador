@@ -1,7 +1,6 @@
 # Password_Generador
-## Description:
-
--
+## Description: 
+![alt text](https://github.com/rubenAlbuquerque/Password_Generador/blob/master/image.PNG)
 
 The purpose of this program is to generate random passwords with certain characters.
 These are the following:
